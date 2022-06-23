@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron {
+    background-image: url("img/jumbotron.jpg");
+    background-size: cover;
+    height: 800px;
+    width: 1300px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+}
+.jumbotron .lead {
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.jumbotron .display-4 {
+	margin-top: 100px;
+	margin-left: 20px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.jumbotron .btn {
+	margin-left:  50px;
+}
+.container {
+	margin-top: 100px;
+		
+}
+.list-group {
+	margin-left: 50px;
+	font-style: center;
+}
+.mt-5 {
+	margin-top: 100px;
+}
+.br {
+	height: 50px;
+	width: 50px;
+}
